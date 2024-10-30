@@ -5,7 +5,7 @@ Título da Apresentação:
 Simulador de Fatura de Cartão de Crédito
 
 Descrição do Projeto:
-Este projeto foi solicitado pela professora Maiara Sacramento, da faculdade Unime Anhanguera do polo Paralela - Salvador Bahia.
+Este projeto foi solicitado pela professora Maiara Sacramento do 2° Semestre da faculdade Unime Anhanguera do polo Paralela - Salvador Bahia.
 
 Foi abordado a possibilidade de criar em três métodos #SouDev, #SouData e #SouSolver.
 
