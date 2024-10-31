@@ -8,6 +8,7 @@ Simulador de Fatura de Cartão de Crédito
 Descrição do Projeto:
 Este projeto foi solicitado pela professora Maiara Sacramento do 2° Semestre da faculdade Unime Anhanguera do polo Paralela - Salvador Bahia.
 Foi abordado a possibilidade de criar em três métodos #SouDev, #SouData e #SouSolver.
+
 #SouDev: Implemente um programa que simule a lógica do cartão de crédito, conforme o cenário descrito. O código pode ser feito em qualquer linguagem de programação.
 
 #SouData: Crie um esquema de Banco de Dados que registre as informações sobre as compras, o valor da fatura e a data de pagamento.
