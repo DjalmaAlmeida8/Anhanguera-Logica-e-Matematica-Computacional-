@@ -9,14 +9,16 @@ Descrição do Projeto:
 Este projeto foi solicitado pela professora Maiara Sacramento do 2° Semestre da faculdade Unime Anhanguera do polo Paralela - Salvador Bahia.
 Foi abordado a possibilidade de criar em três métodos #SouDev, #SouData e #SouSolver.
 #SouDev: Implemente um programa que simule a lógica do cartão de crédito, conforme o cenário descrito. O código pode ser feito em qualquer linguagem de programação.
+
 #SouData: Crie um esquema de Banco de Dados que registre as informações sobre as compras, o valor da fatura e a data de pagamento.
+
 #SouSolver: Crie um fluxograma ou diagrama de processos que represente o funcionamento da lógica do pagamento e da cobrança de juros. Isso ajudará os analistas e front-end developers a visualizar o processo.
 
+
 Sendo assim, para realizar meu projeto optei em realizar como dev fron-end, no meu projeto consiste no desenvolvimento de uma aplicação web que simula a lógica de cálculo de uma fatura de cartão de crédito.
-
 O sistema permite que o usuário registre múltiplas compras, confira o valor acumulado, defina o dia de pagamento e calcule possíveis juros em caso de atraso no pagamento da fatura que é dia 25.
-
 Este simulador foi implementado usando HTML, CSS e JavaScript, com foco em criar uma interface amigável e interativa que facilite a compreensão de conceitos de cálculo de juros e controle de despesas.
+
 
 Objetivo
 
@@ -76,7 +78,6 @@ Se o pagamento ocorrer após o dia 25, o sistema aplica os juros conforme as reg
 
 4. Limpeza dos Dados:
 Ao clicar em "Limpar Dados", todos os valores e campos de entrada são resetados, permitindo uma nova simulação.
-
 
 
 
