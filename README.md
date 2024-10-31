@@ -16,7 +16,7 @@ Foi abordado a possibilidade de criar em três métodos #SouDev, #SouData e #Sou
 #SouSolver: Crie um fluxograma ou diagrama de processos que represente o funcionamento da lógica do pagamento e da cobrança de juros. Isso ajudará os analistas e front-end developers a visualizar o processo.
 
 
-Sendo assim, para realizar meu projeto optei em realizar como dev fron-end, no meu projeto consiste no desenvolvimento de uma aplicação web que simula a lógica de cálculo de uma fatura de cartão de crédito.
+Sendo assim, para realizar meu projeto optei em realizar como dev front-end, no meu projeto consiste no desenvolvimento de uma aplicação web que simula a lógica de cálculo de uma fatura de cartão de crédito.
 O sistema permite que o usuário registre múltiplas compras, confira o valor acumulado, defina o dia de pagamento e calcule possíveis juros em caso de atraso no pagamento da fatura que é dia 25.
 Este simulador foi implementado usando HTML, CSS e JavaScript, com foco em criar uma interface amigável e interativa que facilite a compreensão de conceitos de cálculo de juros e controle de despesas.
 
